@@ -1,17 +1,17 @@
 {
-    "name": "node-firebird",
+    "name": "node-firebird-latin-char",
     "version": "1.1.8",
-    "description": "Pure JavaScript and Asynchronous Firebird client for Node.js.",
+    "description": "Forked Firebird client for Node.js. with latin1np default charset",
     "keywords": [
         "firebird",
         "database",
         "rdbms",
         "sql"
     ],
-    "homepage": "https://github.com/hgourvest/node-firebird",
+    "homepage": "https://github.com/FlemmingMP/node-firebird-latin1",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hgourvest/node-firebird"
+        "url": "https://github.com/FlemmingMP/node-firebird-latin1"
     },
     "author": {
         "name": "Henri Gourvest",
