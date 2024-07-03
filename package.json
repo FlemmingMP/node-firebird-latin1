@@ -1,6 +1,6 @@
 {
     "name": "node-firebird-latin-char",
-    "version": "1.1.9",
+    "version": "1.1.10",
     "description": "Forked Firebird client for Node.js. with latin1np default charset",
     "keywords": [
         "firebird",
